@@ -1,0 +1,2 @@
+We load the daaset using read_csv Pandas function and specify  the na_values to load value of''?'' as missing marked with a NaN value, Next we can see the list of column in the dataset and the number and  percenteage 
+of missing values, we can see that some columns(for example: column indexes 1 and 2) have no missing vaue and other columns(for example column indexes 15 and 21) have many or even a majority of missing values.
